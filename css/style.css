@@ -86,3 +86,101 @@ h5 {
 .feature {
   margin-top: 183px;
 }
+
+.featere-arrow {
+  margin-top: 23px;
+}
+
+.services {
+  margin-top: 40px;
+}
+
+.services-list {
+  column-count: 2;
+  list-style-type: none;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-size: 28px;
+  margin-top: 80px;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 116.5%;
+  color: #000000;
+  margin: 0;
+}
+
+.services-item1:before {
+  content: "01 / ";
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 134.5%;
+}
+
+.services-item2:before {
+  content: "02 / ";
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 134.5%;
+}
+
+.services-item3:before {
+  content: "03 / ";
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 134.5%;
+}
+
+.services-item4:before {
+  content: "04 / ";
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 134.5%;
+}
+
+.services-item5:before {
+  content: "05 / ";
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 134.5%;
+}
+
+.services-item6:before {
+  content: "06 / ";
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 134.5%;
+}
+
+.services-item2 {
+  margin: 53px 0 53px 0;
+}
+
+.services-item5 {
+  margin: 53px 0 53px 0;
+}
+
+.projects {
+  margin-top: 180px;
+}
+
+.col-7 {
+  background: url("../img/projects-1.svg") no-repeat;
+}
